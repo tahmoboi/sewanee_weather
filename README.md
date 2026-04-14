@@ -1,6 +1,6 @@
 # sewanee_weather
 
-Who Uses Sewanee's Resources?
+Ultimate Question: Who Uses Sewanee's Resources? Are they being efficient?
 
 This project is an interactive Shiny dashboard on utility consumption across Sewanee's residence halls. It covers water, electricity, and natural gas usage by per resident so that different sized halls can be fairly compared.
 
