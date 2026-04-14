@@ -8,8 +8,8 @@ This is my data story 4 and the idea was to understand which halls use the most 
 
 The dashboard includes two tabs:
 
-Monthly Time Series — pick a hall, a date range, and a resource metric to see usage trends over time. You can also rank halls by their average consumption to find the biggest users quickly.
-Data Viewer — the raw cleaned dataset behind every chart, sortable and searchable. This changes based on what sort of data you are viewing.
+Monthly Time Series: pick a hall, a date range, and a resource metric to see usage trends over time. You can also rank halls by their average consumption to find the biggest users quickly.
+Data Viewer:  the raw cleaned dataset behind every chart, sortable and searchable. This changes based on what sort of data you are viewing.
 
 Link to the app: 
 
