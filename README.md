@@ -13,4 +13,4 @@ Data Viewer:  the raw cleaned dataset behind every chart, sortable and searchabl
 
 Link to the app: 
 
-Data source: Sewanee Office of Facilities Management — monthly utility records for all campus buildings.
+Data source: Sewanee Office of Facilities Management- monthly utility records for all campus buildings.
