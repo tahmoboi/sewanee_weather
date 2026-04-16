@@ -14,6 +14,6 @@ The dashboard includes two tabs:
 
 - Data Viewer:  the raw cleaned dataset behind every chart, sortable and searchable. This changes based on what sort of data you are viewing.
 
-Here is a video share of the usage of the dashboard: https://www.loom.com/share/a90146b4a79f4adbaafcd7ae41bf0f86
+Here is a screen record of how you can use the dashboard: https://www.loom.com/share/a90146b4a79f4adbaafcd7ae41bf0f86
 
 Data source: Sewanee Office of Facilities Management- monthly utility records for all campus buildings.
