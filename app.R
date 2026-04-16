@@ -139,7 +139,7 @@ server <- function(input, output){
       label = 'Select Hall...',
       multiple = TRUE,
       choices = halls,
-      selected = 'Ayres Hall'
+      selected = 'Cannon Hall'
     )
   })
 
@@ -152,14 +152,24 @@ server <- function(input, output){
                         y = input$yaxis,
                         color = 'building')) +
         geom_line() +
-        xlim(input$month)
+        labs(title = "Residence Hall Resource Usage Over Time",
+             x = "Month",
+             y = input$yaxis,
+             color = "Building")+
+        xlim(input$month)+
+        theme_minimal()
     }else{
       ggplot(rv$utility,
              aes_string(x = 'month',
                         y = input$yaxis,
                         color = 'building')) +
         geom_line() +
-        xlim(input$month)
+        labs(title = "Residence Hall Resource Usage Over Time",
+             x = "Month",
+             y = input$yaxis,
+             color = "Building")+
+        xlim(input$month)+
+        theme_minimal()
     }
   })
 
